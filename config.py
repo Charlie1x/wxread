@@ -59,6 +59,7 @@ data = {
     "pc": "080327b07a4c3259g018787",
 }
 
+
 def convert(curl_command):
     """提取bash接口中的headers与cookies
     支持 -H 'Cookie: xxx' 和 -b 'xxx' 两种方式的cookie提取
